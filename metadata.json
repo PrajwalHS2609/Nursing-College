@@ -1,0 +1,6 @@
+{
+  "name": "Apex National College of Nursing & Research",
+  "description": "Premier Indian Nursing Council (INC) approved Nursing Institution offering B.Sc. Nursing, GNM, P.B. B.Sc., and M.Sc. Nursing with 1200+ bed clinical training, modern simulation labs, and global placements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
