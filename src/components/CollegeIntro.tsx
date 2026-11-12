@@ -64,6 +64,8 @@ export const CollegeIntro: React.FC<CollegeIntroProps> = ({ onOpenApply, onOpenV
                   <img
                     src="https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?w=800&auto=format&fit=crop&q=80"
                     alt="Nursing skills simulation lab at Apex College"
+                    loading="lazy"
+                    referrerPolicy="no-referrer"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                   />
                 </div>
@@ -83,6 +85,8 @@ export const CollegeIntro: React.FC<CollegeIntroProps> = ({ onOpenApply, onOpenV
                   <img
                     src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&auto=format&fit=crop&q=80"
                     alt="Clinical observation at partner hospital"
+                    loading="lazy"
+                    referrerPolicy="no-referrer"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                   />
                 </div>
@@ -92,8 +96,10 @@ export const CollegeIntro: React.FC<CollegeIntroProps> = ({ onOpenApply, onOpenV
             {/* Principal Signature Card */}
             <div className="mt-6 p-5 rounded-2xl bg-[#FAFBFC] border border-gray-200 flex items-center gap-4">
               <img
-                src="https://images.unsplash.com/photo-1594824813508-0a0684f09101?w=200&auto=format&fit=crop&q=80"
-                alt="Dr. Sr. Philomena Mathew, Principal"
+                src="https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=400&auto=format&fit=crop&q=80"
+                alt="Prof. Dr. Sr. Philomena Mathew, Principal"
+                loading="lazy"
+                referrerPolicy="no-referrer"
                 className="w-14 h-14 rounded-full object-cover border-2 border-[#2878A5]"
               />
               <div>

@@ -137,6 +137,8 @@ export const Hero: React.FC<HeroProps> = ({
                 <img
                   src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1000&auto=format&fit=crop&q=80"
                   alt="Indian nursing students in professional uniforms in modern healthcare clinical training at Apex College"
+                  referrerPolicy="no-referrer"
+                  fetchPriority="high"
                   className="w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-700"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#172B4D]/80 via-transparent to-black/20" />

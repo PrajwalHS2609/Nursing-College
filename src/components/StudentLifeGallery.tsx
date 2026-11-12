@@ -114,6 +114,8 @@ export const StudentLifeGallery: React.FC = () => {
                 <img
                   src={item.image}
                   alt={item.title}
+                  loading="lazy"
+                  referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
                 <div className="absolute top-3 right-3">

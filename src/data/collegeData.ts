@@ -582,7 +582,7 @@ export const FACULTY_DATA: FacultyMember[] = [
     qualifications: "M.Sc. Nursing (Med-Surg), Ph.D. in Nursing, Post-Doctoral Fellow (Cardio-Thoracic Nursing)",
     experienceYears: 24,
     specialization: "Cardio-Vascular & Thoracic Nursing, Evidence-Based Nursing Practice",
-    photo: "https://images.unsplash.com/photo-1594824813508-0a0684f09101?w=800&auto=format&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&auto=format&fit=crop&q=80",
     bio: "Dr. Sr. Philomena has steered Apex National College of Nursing for over 14 years. A distinguished academician who has published 38 peer-reviewed research papers in indexed journals and serves on the curriculum advisory council of Rajiv Gandhi University of Health Sciences.",
     memberships: ["Life Member, Trained Nurses Association of India (TNAI)", "Member, Indian Society of Critical Care Nurses", "Executive Member, Karnataka Nursing Council Research Board"]
   },

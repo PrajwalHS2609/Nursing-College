@@ -125,6 +125,8 @@ export const PlacementPartners: React.FC = () => {
                   <img
                     src={t.photo}
                     alt={t.name}
+                    loading="lazy"
+                    referrerPolicy="no-referrer"
                     className="w-12 h-12 rounded-full object-cover border border-[#2878A5]"
                   />
                   <div>
